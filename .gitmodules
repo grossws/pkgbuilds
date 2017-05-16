@@ -1,0 +1,9 @@
+[submodule "cfssl"]
+	path = cfssl
+	url = aur:/cfssl.git
+[submodule "sjk"]
+	path = sjk
+	url = aur:/sjk.git
+[submodule "serf"]
+	path = serf
+	url = aur:/serf-cluster.git
